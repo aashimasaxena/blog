@@ -1,0 +1,87 @@
+
+            body{
+                background-color: white;                               
+            }
+
+            .navbar-inverse{
+                background: #2c3e50;
+                color: white;
+                font-family: 'Kaushan Script', cursive;
+                font-size: 16px;
+            }
+
+            
+            #maincon{
+                padding-top: 5%;
+                padding-bottom: 2%;
+                color: black;
+                text-align: center;
+                font-family: 'Kaushan Script', cursive;
+                
+              }
+
+            a{
+                color: black;
+                font-family: 'Kaushan Script', cursive;
+            }
+           
+            img{
+               width: 85%;
+            }
+
+            #sec{
+                text-align: center;
+            }
+            
+              
+            h1{
+                border-bottom: 2px solid black;
+                padding-bottom: 5px;
+                font-size: 34px;
+            }
+
+            .footer{
+                text-align: center;
+                background: #2c3e50;
+                padding-top: 20px;
+            }
+            
+            .fa {
+                padding: 10px;
+                font-size: 20px;
+                width: 30px;
+                text-align: center; 
+                border-radius: 20%;
+                color: beige;
+              }
+
+              #navc{
+                  
+                  background-color: #c5c7ca;
+                  text-align: right;
+                  padding-top: 12%;
+
+              }
+            
+            h2{
+                background-color: #c5c7ca;
+                  text-align: left;
+                  padding-top: 10%;
+            }
+
+            h3{
+                font-family: 'Kaushan Script', cursive;
+                padding-left: 20px;
+            }
+
+            #para{
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                padding-top: 5%;
+                text-align: justify;
+            }
+
+           
+           
+
+
+        
